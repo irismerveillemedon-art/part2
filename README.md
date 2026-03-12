@@ -89,6 +89,6 @@ Full Stack Open – University of Helsinki
 https://fullstackopen.com/
 
 👨‍💻 Auteur
-Développé par Jorkael Keumeze
+Développé par Iris Merveille Medon
 
 Étudiant et développeur passionné par le développement web full-stack.
